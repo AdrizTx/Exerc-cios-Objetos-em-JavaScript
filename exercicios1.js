@@ -107,7 +107,7 @@ let escola = {
 console.log("A escola " + escola.nome + " funciona na cidade de " + escola.cidade + " no turno da " + escola.turno + " .");
 
 //################################################################
-//EXERCICO - 9
+//EXERCICO - 10
 //################################################################
 
 let conta = {
